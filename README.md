@@ -1,8 +1,13 @@
 <!-- Profile Header -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#0078ff">LOKESHWARAN S</span>
+  Hi 👋, I'm <span style="color:#0078ff">Your Name</span>
 </h1>
 <h3 align="center">🚀 ML & Android Developer | 🎓 B.Tech CSE | 🌐 Open Source Enthusiast</h3>
+
+<!-- Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80&w=1200&auto=format&fit=crop" alt="banner" width="100%"/>
+</p>
 
 <!-- Typing effect -->
 <p align="center">
@@ -46,7 +51,7 @@
 | 🎯 Project | 📌 Description | ⚙️ Tech | 🔗 Links |
 |------------|----------------|---------|----------|
 | **📱 Attendance Monitoring App** | Android app for parents to track student attendance | Kotlin, RecyclerView | [Repo](https://github.com/your-github-username/attendance-monitoring-app) |
-| **🧠 Intelligent MCQ Generator** | Auto-generates MCQs using T5 + NLP toolkit with Streamlit UI | Python, T5, spaCy, Streamlit | [Demo](#) · [Repo](https://github.com/your-github-username/intelligent-mcq-generator) |
+| **🧠 Intelligent MCQ Generator** | Auto-generates MCQs using T5 + NLP toolkit with Streamlit UI | Python, T5, spaCy, Streamlit | [Demo](https://your-demo-link.example) · [Repo](https://github.com/your-github-username/intelligent-mcq-generator) |
 | **👀 AI Proctoring** | Fraud detection with webcam & gaze tracking | Python, OpenCV, Mediapipe | [Repo](https://github.com/your-github-username/ai-proctoring) |
 | **🛒 Retail MLOps** | End-to-end MLOps case study on AWS | Python, AWS | [Repo](https://github.com/your-github-username/retail-mlops-case-study) |
 
