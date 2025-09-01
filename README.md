@@ -97,13 +97,6 @@
 
 ---
 
-## ✍️ Latest Blog Posts (optional)
-
-* [How I built an MCQ generator with T5](https://your-blog.example/post-1)
-* [Designing a parent-friendly attendance UI in Kotlin](https://your-blog.example/post-2)
-
----
-
 ## 🤝 Connect
 
 * 💼 LinkedIn: [https://linkedin.com/in/your-id](https://linkedin.com/in/your-id)
@@ -142,15 +135,3 @@
 * VS Code: [https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 * Jupyter: [https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg)
 
----
-
-### 📝 How to use this
-
-1. **Create your profile repo**: go to GitHub → create a new repository **named exactly your username** (e.g., `your-github-username/your-github-username`).
-2. Check **"Add a README file"** when creating it. If not, create a file named `README.md` in that repo.
-3. **Paste this entire markdown** into `README.md` and commit.
-4. Go to your profile → **Customize profile** → Pin the top projects.
-5. Update links: replace `your-github-username`, email, LinkedIn, and project URLs.
-6. Optional: add a custom header banner and profile photo for a clean visual.
-
-> Pro tip: keep the README concise. Link out to full case studies or demos instead of cramming everything here.
