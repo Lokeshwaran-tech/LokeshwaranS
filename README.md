@@ -99,7 +99,7 @@
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-id](https://linkedin.com/in/Lokeshwaran S)
+* 💼 LinkedIn: [https://linkedin.com/in/your-id](https://linkedin.com/in/LokeshwaranS)
 * ✉️ Email: [you@example.com](lokeshwaransureshk@gmail.com)
 
 
