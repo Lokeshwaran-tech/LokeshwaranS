@@ -1,6 +1,5 @@
 # Hi, I'm LOKESHWARAN S 👋
 
-![Profile Banner](https://images.unsplash.com/photo-1518779578993-ec3579fee39f?q=80\&w=1600\&auto=format\&fit=crop) <!-- Replace with a custom banner or remove this line -->
 
 > **Tagline:** ML & Android Developer · Building intelligent apps, clean UIs, and scalable backends
 
