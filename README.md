@@ -99,9 +99,9 @@
 
 ## 🤝 Connect
 
-* 💼 LinkedIn: [https://linkedin.com/in/your-id](https://linkedin.com/in/your-id)
-* ✉️ Email: [you@example.com](mailto:you@example.com)
-* 🐦 Twitter: [https://twitter.com/your-handle](https://twitter.com/your-handle)
+* 💼 LinkedIn: [https://linkedin.com/in/your-id](https://linkedin.com/in/Lokeshwaran S)
+* ✉️ Email: [you@example.com](lokeshwaransureshk@gmail.com)
+
 
 ---
 
